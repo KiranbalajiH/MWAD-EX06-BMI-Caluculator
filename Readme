@@ -117,8 +117,6 @@ function Home() {
 
 export default Home;
 
-
-
 ## OUTPUT
 ![alt text](<Screenshot 2025-05-19 113001.png>)
 
